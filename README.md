@@ -12,9 +12,9 @@ Este repositório tem três seções:
 
 Consulte nosso [site GitHub Pages](https://google.github.io/blockly-samples/index.html) para demonstrações interativas da maioria dos plug-ins.
 
-## Support
+## Apoiar
 
-Blockly has an active [developer forum](https://groups.google.com/forum/#!forum/blockly). Please drop by and say hello. Show us your prototypes early; collectively we have a lot of experience and can offer hints which will save you time. We actively monitor the forums and typically respond to questions within 2 working days.
+Blockly tem um [fórum de desenvolvedores](https://groups.google.com/forum/#!forum/blockly) ativo. Por favor, passe por aqui e diga olá. Mostre-nos seus protótipos com antecedência; coletivamente, temos muita experiência e podemos oferecer dicas que economizarão seu tempo. Monitoramos ativamente os fóruns e normalmente respondemos às perguntas em até dois dias úteis.
 
 
 ## License
