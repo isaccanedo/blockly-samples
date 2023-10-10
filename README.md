@@ -17,6 +17,6 @@ Consulte nosso [site GitHub Pages](https://google.github.io/blockly-samples/inde
 Blockly tem um [fórum de desenvolvedores](https://groups.google.com/forum/#!forum/blockly) ativo. Por favor, passe por aqui e diga olá. Mostre-nos seus protótipos com antecedência; coletivamente, temos muita experiência e podemos oferecer dicas que economizarão seu tempo. Monitoramos ativamente os fóruns e normalmente respondemos às perguntas em até dois dias úteis.
 
 
-## License
+## Licença
 
 Apache 2.0
