@@ -6,7 +6,7 @@ Plugins, codelabs e exemplos relacionados à biblioteca [Blockly](https://github
 
 Este repositório tem três seções:
 
-- [Plugins](plugins/): self-contained pieces of code that add functionality to Blockly.
+- [Plugins](plugins/): pedaços de código independentes que adicionam funcionalidade ao Blockly.
 - [Examples](examples/): self-contained sample projects demonstrating techniques to include and extend the Blockly library.
 - [Codelabs](codelabs/): interactive tutorials demonstrating how to use Blockly.
 
