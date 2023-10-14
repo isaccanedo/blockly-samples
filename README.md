@@ -1,5 +1,5 @@
 <h1 align="center">
-Blockly Samples <br /> <a href="https://github.com/google/blockly"><img src="https://tinyurl.com/built-on-blockly" /> </a>
+Amostras em bloco <br /> <a href="https://github.com/google/blockly"><img src="https://tinyurl.com/built-on-blockly" /> </a>
 </h1>
 
 Plugins, codelabs e exemplos relacionados à biblioteca [Blockly](https://github.com/google/blockly).
